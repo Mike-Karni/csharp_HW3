@@ -1,0 +1,15 @@
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\bin\Debug\net6.0\PolindromTask.exe
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\bin\Debug\net6.0\PolindromTask.deps.json
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\bin\Debug\net6.0\PolindromTask.runtimeconfig.json
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\bin\Debug\net6.0\PolindromTask.dll
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\bin\Debug\net6.0\PolindromTask.pdb
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\obj\Debug\net6.0\PolindromTask.csproj.AssemblyReference.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\obj\Debug\net6.0\PolindromTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\obj\Debug\net6.0\PolindromTask.AssemblyInfoInputs.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\obj\Debug\net6.0\PolindromTask.AssemblyInfo.cs
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\obj\Debug\net6.0\PolindromTask.csproj.CoreCompileInputs.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\obj\Debug\net6.0\PolindromTask.dll
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\obj\Debug\net6.0\refint\PolindromTask.dll
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\obj\Debug\net6.0\PolindromTask.pdb
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\obj\Debug\net6.0\PolindromTask.genruntimeconfig.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\PolindromTask\obj\Debug\net6.0\ref\PolindromTask.dll

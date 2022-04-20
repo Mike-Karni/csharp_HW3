@@ -1,0 +1,15 @@
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\bin\Debug\net6.0\TablitsaKubov.exe
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\bin\Debug\net6.0\TablitsaKubov.deps.json
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\bin\Debug\net6.0\TablitsaKubov.runtimeconfig.json
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\bin\Debug\net6.0\TablitsaKubov.dll
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\bin\Debug\net6.0\TablitsaKubov.pdb
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\obj\Debug\net6.0\TablitsaKubov.csproj.AssemblyReference.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\obj\Debug\net6.0\TablitsaKubov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\obj\Debug\net6.0\TablitsaKubov.AssemblyInfoInputs.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\obj\Debug\net6.0\TablitsaKubov.AssemblyInfo.cs
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\obj\Debug\net6.0\TablitsaKubov.csproj.CoreCompileInputs.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\obj\Debug\net6.0\TablitsaKubov.dll
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\obj\Debug\net6.0\refint\TablitsaKubov.dll
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\obj\Debug\net6.0\TablitsaKubov.pdb
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\obj\Debug\net6.0\TablitsaKubov.genruntimeconfig.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\TablitsaKubov\obj\Debug\net6.0\ref\TablitsaKubov.dll

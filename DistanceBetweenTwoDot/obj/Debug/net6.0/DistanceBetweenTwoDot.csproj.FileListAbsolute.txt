@@ -1,0 +1,15 @@
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\bin\Debug\net6.0\DistanceBetweenTwoDot.exe
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\bin\Debug\net6.0\DistanceBetweenTwoDot.deps.json
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\bin\Debug\net6.0\DistanceBetweenTwoDot.runtimeconfig.json
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\bin\Debug\net6.0\DistanceBetweenTwoDot.dll
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\bin\Debug\net6.0\DistanceBetweenTwoDot.pdb
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\obj\Debug\net6.0\DistanceBetweenTwoDot.csproj.AssemblyReference.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\obj\Debug\net6.0\DistanceBetweenTwoDot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\obj\Debug\net6.0\DistanceBetweenTwoDot.AssemblyInfoInputs.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\obj\Debug\net6.0\DistanceBetweenTwoDot.AssemblyInfo.cs
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\obj\Debug\net6.0\DistanceBetweenTwoDot.csproj.CoreCompileInputs.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\obj\Debug\net6.0\DistanceBetweenTwoDot.dll
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\obj\Debug\net6.0\refint\DistanceBetweenTwoDot.dll
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\obj\Debug\net6.0\DistanceBetweenTwoDot.pdb
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\obj\Debug\net6.0\DistanceBetweenTwoDot.genruntimeconfig.cache
+C:\Users\Upeco\Desktop\hw(seminar3)\DistanceBetweenTwoDot\obj\Debug\net6.0\ref\DistanceBetweenTwoDot.dll
